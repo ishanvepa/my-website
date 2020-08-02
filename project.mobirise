@@ -48,11 +48,11 @@
     "uniqCompNum": 24,
     "versionPublish": "4.12.4",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/ishanvepa-faviconlogo-128x128.png",
+    "favicon": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://ishanvepa.ga",
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
@@ -1076,7 +1076,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<p>&nbsp; &nbsp; This video is me reacting to my Advanced Placement exam scores from the 2019-2020 school year.<br></p>",
+                "caption": "<p><span style=\"font-size: 0.9em;\">This video is me reacting to my Advanced Placement exam scores from the 2019-2020 school year.</span><br></p>",
                 "active": true
               }
             ]
